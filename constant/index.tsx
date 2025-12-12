@@ -136,7 +136,7 @@ export const projects: FeaturedProjects[] = [
       "Framer Motion",
       "Typescript",
     ],
-    link: "https://jmd-portfolio.vercel.app/",
+    link: "https://jmdev-folio.vercel.app/",
     repo: "https://github.com/jmdev-git/portfolio",
   },
 ];
