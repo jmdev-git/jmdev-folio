@@ -116,7 +116,7 @@ const HeroSection = () => {
                     href="/JohnMarkDepaclayon_Resume.docx"
                     download="JohnMarkDepaclayon_Resume.docx"
                   >
-                    <Button className="w-full text-white md:w-auto cursor-pointer shadow-sm dark:bg-gray-700 bg-black hover:bg-black dark:hover:bg-gray-700">
+                    <Button className="w-full text-white md:w-auto cursor-pointer shadow-sm dark:bg-gray-700! bg-black hover:bg-black dark:hover:bg-gray-700">
                       <Magnetic
                         intensity={0.1}
                         springOptions={springOptions}
